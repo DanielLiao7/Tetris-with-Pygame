@@ -1,6 +1,8 @@
 # Tetris-with-Pygame
 A simple version of Tetris made using the Pygame module for python. This was submitted as my final project for CS121P Intro to Programming.
 
+![TetrisScreenshot](https://github.com/user-attachments/assets/98116056-8db3-4449-a919-3e9111c2c749)
+
 **Controls:**
 Use arrow keys for movement and rotation, C for holding pieces, and SPACE for hard drops. 
 ESC is used to pause the game.
