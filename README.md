@@ -14,6 +14,8 @@ Additional Features of Note:
 - The rate at which pieces fall increases based on the current level (the specific formula is based on the one used for tetris worlds).
 - Higher scores earned based on number of lines cleared at once, the score earned is multiplied by the current level.
 
+## Screenshots:
+
 ![Tetris2](https://github.com/user-attachments/assets/d84be24e-f39b-4081-80ce-dbddae4fbdd0)
 
 ![Tetris3](https://github.com/user-attachments/assets/c8b27b13-f821-49bf-88ab-6832f849f107)
